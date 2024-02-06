@@ -3,7 +3,7 @@
 ### This project is built to provide an LLM-based chatbot experience to the user for searching and querying symptoms. The data is fed through credible sources including the National Institute of Health (NIH), CDC, GARD, and the like. 
 ## Data Source: Kaggle 
 ## Data Title: Healthcare NLP: LLMs, Transformers, Datasets
-
+## First step: Context Injection
 ## Choice of LLMs: GPT, PaLM, LLaMA, Claude
 
 
