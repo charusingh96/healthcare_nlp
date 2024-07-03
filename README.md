@@ -1,6 +1,6 @@
 # LLM Chatbot for Medical Symptoms and Queries
 
-### This project is built to provide an LLM-based chatbot experience to the user for searching and querying symptoms. The data is fed through credible sources including the National Institute of Health (NIH), CDC, GARD, and the like. 
+### This project is built to provide an LLM-based chatbot experience to the user for searching and querying symptoms. The data is fed through credible sources including the National Institute of Health (NIH), CDC, GARD, and the likes. 
 ## Data Source: Kaggle 
 ## Data Title: Healthcare NLP: LLMs, Transformers, Datasets
 
